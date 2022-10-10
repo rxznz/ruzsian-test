@@ -6,7 +6,7 @@ body {
     border-radius: 2%;
     border: solid;
     border-color: #001a5c;
-    position: relative;
+    position: static;
 }
 
 body {
