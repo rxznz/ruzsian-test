@@ -2,10 +2,31 @@ body {
     background-image: url(https://cdn.discordapp.com/attachments/802204810169286666/1028832690683789332/unknown.png);
     background-size: cover;
 }
+
+.discordprofile {
+    border-radius: 2%;
+    border: solid;
+    border-color: #001a5c;
+    position: absolute;
+    height: 400px; 
+    right: 500px;
+    bottom: 120px;   
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
 .aboutme {
     background-image: url(./Assets/discordprofile/aboutme.png);
     position: relative;
     background-size: inherit;
     width: 100000px;
     height: 100px;
+}
+
+.genshinmods {
+    display: none;
+    
 }
