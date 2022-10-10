@@ -7,20 +7,7 @@ body {
     border: solid;
     border-color: #001a5c;
     position: relative;
-    right: -430px;
-    top: 70px;
 }
-
-.profilegif {
-    position: relative;
-    right: -448.450px;
-    top: -372.2px;
-    border: solid;
-    border-radius: 100%;
-    border-color: #18191C;
-    height: 95px;
-}
-
 
 body {
     padding: 0;
