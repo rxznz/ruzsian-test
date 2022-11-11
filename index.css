@@ -1,32 +1,20 @@
 body {
-    background-image: url(https://cdn.discordapp.com/attachments/802204810169286666/1028832690683789332/unknown.png);
-    background-size: cover;
+    background-image: url(./Assets/pictures/heartstopper3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 1910px;
 }
 
-.discordprofile {
-    border-radius: 2%;
-    border: solid;
-    border-color: #001a5c;
-    position: absolute;
-    height: 100px; 
-    right: 500px;
-    bottom: 100px;   
-}
-
-body {
-    padding: 0;
-    margin: 0;
-    background-color: black;
-}
-.aboutme {
-    background-image: url(./Assets/discordprofile/aboutme.png);
-    position: relative;
-    background-size: inherit;
-    width: 100000px;
-    height: 100px;
-}
-
-.genshinmods {
-    display: none;
-   
+.button {
+  background-color: white;
+  border: black solid 2px;
+  border-radius: 4px;
+  color: black;
+  padding: 25px 365px;
+  text-decoration: none;
+  font-size: 50px;
+  position: absolute;
+  top: 1680px;
+  left: 8.3px;
 }
