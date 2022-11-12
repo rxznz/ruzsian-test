@@ -14,6 +14,8 @@ body {
   font-family: 'LemonBold';
   background-color: white;
   border: black solid 2px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.25s;
   border-radius: 4px;
   color: black;
   padding: 25px 365px;
@@ -22,4 +24,9 @@ body {
   position: absolute;
   top: 1680px;
   left: 4px;
+}
+
+.button:hover {
+  background-color: black;
+  color: white;
 }
