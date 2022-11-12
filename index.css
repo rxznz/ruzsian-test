@@ -1,6 +1,6 @@
 @font-face {
    font-family: 'LemonBold';
-   src: url(/Assets/fonts/LEMONMILK-Bold.otf);
+   src: url(./Assets/fonts/LEMONMILK-Bold.otf);
 }
 body {
     background-image: url(./Assets/pictures/heartstopper3.png);
