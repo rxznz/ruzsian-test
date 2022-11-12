@@ -1,0 +1,25 @@
+@font-face {
+   font-family: 'LemonBold';
+   src: url(./Assets/fonts/LEMONMILK-Bold.otf);
+}
+body {
+    background-image: url(./Assets/pictures/heartstopper3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    display: block;
+    height: 1910px;
+}
+
+.button {
+  font-family: 'LemonBold';
+  background-color: white;
+  border: black solid 2px;
+  border-radius: 4px;
+  color: black;
+  padding: 25px 365px;
+  text-decoration: none;
+  font-size: 41px;
+  position: absolute;
+  top: 1680px;
+  left: 4px;
+}
