@@ -3,7 +3,7 @@
    src: url(./Assets/fonts/LEMONMILK-Bold.otf);
 }
 body {
-    background-image: url(./Assets/pictures/homura.png);
+    background-image: url(./Assets/pictures/homura2.png);
     background-position: center;
     background-repeat: no-repeat;
     display: block;
@@ -26,29 +26,28 @@ body {
   left: 4px;
 }
 
-.protos {
-  font-family: 'LemonBold';
-  background-color: white;
-  border: black solid 2px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  transition-duration: 0.25s;
-  border-radius: 4px;
-  color: black;
-  padding: 25px 40px;
-  text-decoration: none;
-  font-size: 30px;
+.discord {
   position: absolute;
-  top: 1830px;
-  left: 4px;
-  opacity: 50%;
+  width: 170px;
+  top: 1070px;
+  left: 59px;
+}
+
+.github {
+  position: absolute;
+  width: 170px;
+  top: 1255px;
+  left: 57px;
+}
+
+.spotify {
+  position: absolute;
+  width: 165px;
+  top: 1465px;
+  left: 60px;
 }
 
 .button:hover {
-  background-color: black;
-  color: white;
-}
-
-.protos:hover {
   background-color: black;
   color: white;
 }
