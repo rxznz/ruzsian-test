@@ -26,6 +26,22 @@ body {
   left: 4px;
 }
 
+.genshin {
+  font-family: 'LemonBold';
+  background-color: white;
+  border: black solid 2px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.25s;
+  border-radius: 4px;
+  color: black;
+  padding: 25px 365px;
+  text-decoration: none;
+  font-size: 26px;
+  position: absolute;
+  top: 1800px;
+  left: 4px;
+}
+
 .discord {
   position: absolute;
   width: 170px;
@@ -48,6 +64,11 @@ body {
 }
 
 .button:hover {
+  background-color: black;
+  color: white;
+}
+
+.genshin:hover {
   background-color: black;
   color: white;
 }
