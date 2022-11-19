@@ -1,0 +1,24 @@
+@font-face {
+   font-family: 'LemonBold';
+   src: url(LEMONMILK-Bold.otf);
+}
+
+body {
+  background-color: white;
+}
+
+.button {
+  font-family: 'LemonBold';
+  background-color: white;
+  border: black solid 2px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  transition-duration: 0.25s;
+  border-radius: 4px;
+  color: black;
+  padding: 25px 365px;
+  text-decoration: none;
+  font-size: 30px;
+  position: absolute;
+  top: 560px;
+  left: 4px;
+}
